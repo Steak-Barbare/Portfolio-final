@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'Bungee Shade';
-    src: url(/Assets/webfonts/BungeeShade-Regular.ttf);
+    src: url(../webfonts/BungeeShade-Regular.ttf);
 }
 
 html, body {
@@ -33,18 +33,18 @@ i{
 header {
 
 display: flex;
-background-image: url(/Assets/Image/header\ test.PNG);
+background-image: url(../Image/header\ test.PNG);
 }
 
 body {
-    background-image: url(/Assets/Image/middle\ test.PNG);
+    background-image: url(../Image/middle\ test.PNG);
     background-position: bottom;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 footer {
-    background-image: url(/Assets/Image/footer2.PNG);
+    background-image: url(../Image/footer2.PNG);
 
 }
 
